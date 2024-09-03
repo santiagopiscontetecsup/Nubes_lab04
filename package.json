@@ -1,5 +1,15 @@
 {
+  "name": "lab04_nubes_pisconte",
+  "version": "1.0.0",
+  "description": "Aplicación de ejemplo usando Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
-    "express": "^4.19.2"
-  }
+    "express": "^4.19.2",
+    "mysql2": "^3.11.0"
+  },
+  "author": "Santiago",
+  "license": "ISC"
 }
